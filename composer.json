@@ -1,0 +1,19 @@
+{
+    "name": "Zorashhi/pbwl-project11",
+    "description": "Praktikum pbwl Pemrograman Berbasis Web Lanjutan",
+    "type": "project",
+    "authors": [
+        {
+            "name": "Bima Sanjaya",
+            "email": "sanjayabima715@gmail.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "App\\": "app/"
+        }
+    },
+    "require": {
+        "filp/whoops": "^2.14"
+    }
+}
